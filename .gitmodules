@@ -1,0 +1,33 @@
+[submodule "AndEngineMODPlayerExtension"]
+	path = AndEngineMODPlayerExtension
+	url = https://github.com/nicolasgramlich/AndEngineMODPlayerExtension.git
+[submodule "AndEngineSVGTextureRegionExtension"]
+	path = AndEngineSVGTextureRegionExtension
+	url = https://github.com/eien/AndEngineSVGTextureRegionExtension.git
+[submodule "AndEngine"]
+	path = AndEngine
+	url = https://github.com/nicolasgramlich/AndEngine.git
+[submodule "AndEngineAugmentedRealityExtension"]
+	path = AndEngineAugmentedRealityExtension
+	url = https://github.com/nicolasgramlich/AndEngineAugmentedRealityExtension.git
+[submodule "AndEngineMultiplayerExtension"]
+	path = AndEngineMultiplayerExtension
+	url = https://github.com/nicolasgramlich/AndEngineMultiplayerExtension.git
+[submodule "AndEnginePhysicsBox2DExtension"]
+	path = AndEnginePhysicsBox2DExtension
+	url = https://github.com/nicolasgramlich/AndEnginePhysicsBox2DExtension.git
+[submodule "AndEngineLiveWallpaperExtension"]
+	path = AndEngineLiveWallpaperExtension
+	url = https://github.com/nicolasgramlich/AndEngineLiveWallpaperExtension.git
+[submodule "AndEngineTMXTiledMapExtension"]
+	path = AndEngineTMXTiledMapExtension
+	url = https://github.com/nicolasgramlich/AndEngineTMXTiledMapExtension.git
+[submodule "AndEngineExamples"]
+	path = AndEngineExamples
+	url = https://github.com/eien/AndEngineExamples.git
+[submodule "AndEngineCocosBuilderExtension"]
+	path = AndEngineCocosBuilderExtension
+	url = https://github.com/nicolasgramlich/AndEngineCocosBuilderExtension.git
+[submodule "AndEngineCocosBuilderExtensionCCRotatingSpriteExtension"]
+	path = AndEngineCocosBuilderExtensionCCRotatingSpriteExtension
+	url = https://github.com/nicolasgramlich/AndEngineCocosBuilderExtensionCCRotatingSpriteExtension.git
